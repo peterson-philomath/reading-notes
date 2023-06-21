@@ -1,6 +1,10 @@
 # My Reading Journal
 Code Fellows Reading Journal
 
+## About Me
+
+My Name is Philip Peterson (he/him), and I am in Oregon (Pacific Time). I am a middle school teacher who is hoping to teach 7th/8th graders how to code. I have a background in technology as I studied electrical and computer engineering for a time before switching to become a teacher and I use to maintain computers and networks for different companies. 
+
 ## Code 102
 
 ### Growth Mindset
