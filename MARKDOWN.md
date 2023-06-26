@@ -28,8 +28,8 @@ It is meant to be able to create a quick write-up of a page without getting bogg
   - Asterisks (*)
   - Plus sign (+)
  
-  - Create a Link
-    - To create a link, enclose the link text in Brackets and follow immediately with the URL in parentheses
+- Create a Link
+  - To create a link, enclose the link text in Brackets and follow immediately with the URL in parentheses
 
 ## Resources
 * [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
