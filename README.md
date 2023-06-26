@@ -18,6 +18,6 @@ A growth mindset is having the mindset that you can always improve and always le
 - Everything you have ever learned started with knowing nothing about it.
 
 
-[Markdown Notes](peterson-philomath.github.io/markdown)<br>
+[Markdown Notes](MARKDOWN.md)<br>
 
 [My Codefellow Reading Journal](peterson-philomath.github.io/reading-notes)
