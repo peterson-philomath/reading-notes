@@ -17,7 +17,9 @@ A growth mindset is having the mindset that you can always improve and always le
 - When frustrated take a break and come back with a refreshed mind
 - Everything you have ever learned started with knowing nothing about it.
 
+## [Markdown Notes](MARKDOWN.md)<br>
+What is Markdown and how is it used.
 
-[Markdown Notes](MARKDOWN.md)<br>
 
-[My Codefellow Reading Journal](peterson-philomath.github.io/reading-notes)
+### Extra Information
+Website Path: peterson-philomath.github.io/reading-notes
