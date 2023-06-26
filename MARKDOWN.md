@@ -30,7 +30,7 @@ It is meant to be able to create a quick write-up of a page without getting bogg
  
   - Create a Link
     - To create a link, enclose the link text in Brackets and follow immediately with the URL in parentheses
-    - [Reading Notes](peterson-philomath.github.io/reading-notes)
+    - [Reading Notes](README.md)
 
 ## Resources
 * [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
