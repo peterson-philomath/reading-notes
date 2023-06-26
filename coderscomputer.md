@@ -18,7 +18,9 @@ Different text editors are focused on different features and have different end 
 + Extensions
   + Plugins that give even more power to the text editor
   + Increase functionality
- 
+
+# Navigating Command Line Interface
+
 ## Commands
 
 + **pwd**
