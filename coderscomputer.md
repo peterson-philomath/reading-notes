@@ -47,4 +47,4 @@ Different text editors are focused on different features and have different end 
 4. cd ..
    + Go to the previous directory (parent directory)
 5. ls projects/new-project
-   +list the contents of the directory new-project
+   + list the contents of the directory new-project
