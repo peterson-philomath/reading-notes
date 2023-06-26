@@ -17,4 +17,9 @@ A growth mindset is having the mindset that you can always improve and always le
 - When frustrated take a break and come back with a refreshed mind
 - Everything you have ever learned started with knowing nothing about it.
 
+
+
+
+
+
 [My Codefellow Reading Journal](peterson-philomath.github.io/reading-notes)
