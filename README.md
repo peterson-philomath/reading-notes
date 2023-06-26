@@ -20,6 +20,7 @@ A growth mindset is having the mindset that you can always improve and always le
 ## [Markdown Notes](MARKDOWN.md)<br>
 What is Markdown and how is it used.
 
+## [Coder's Computer](coderscomputer.md)
 
 ### Extra Information
 Website Path: peterson-philomath.github.io/reading-notes
