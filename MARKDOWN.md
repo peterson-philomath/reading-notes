@@ -30,8 +30,9 @@ It is meant to be able to create a quick write-up of a page without getting bogg
  
   - Create a Link
     - To create a link, enclose the link text in Brackets and follow immediately with the URL in parentheses
-    - [Reading Notes](README.md)
 
 ## Resources
 * [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 * [Basic Writing and Formatting Syntax - Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[Reading Notes](README.md)
