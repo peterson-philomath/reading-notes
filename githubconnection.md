@@ -28,3 +28,8 @@ How do you connect github to local repos so you can use more tools.
 - git pull
   - pulls repo from the cloud to the local
 
+### Always A-C-P
+
+- Add
+- Commit
+- Push  

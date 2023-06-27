@@ -47,7 +47,6 @@ Notes from Lesson 8
 
 Notes from Lesson 9
 
-
 ### Extra Information
 
 Website Path: peterson-philomath.github.io/reading-notes
