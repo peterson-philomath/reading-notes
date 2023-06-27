@@ -25,10 +25,12 @@ Notes from Lesson 3
 
 ### [Structure Web Pages with HTML](htmlstructure.md)
 
+HTML Basics  
 Notes from Lesson 4
 
-### [Class 05](class05.md)
+### [Design Webpages with CSS](css.md)
 
+CSS Basics  
 Notes from Lesson 5
 
 ### [Class 06](class06.md)
