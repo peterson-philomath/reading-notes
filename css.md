@@ -38,6 +38,10 @@ selector{
 
 - asterick affects all elements
 
+ID - unique value given to an element
+
+Class - a way to group similar elements
+
 ### Resources
 
 - [What is CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
@@ -45,3 +49,4 @@ selector{
 - [CSS Color](https://www.w3schools.com/cssref/pr_text_color.asp)
 - [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [Myers Web Reset Stylesheet](https://meyerweb.com/eric/tools/css/reset/)
+- [CSS-tricks](css-tricks.com)
