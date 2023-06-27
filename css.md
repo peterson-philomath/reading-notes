@@ -49,4 +49,4 @@ Class - a way to group similar elements
 - [CSS Color](https://www.w3schools.com/cssref/pr_text_color.asp)
 - [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [Myers Web Reset Stylesheet](https://meyerweb.com/eric/tools/css/reset/)
-- [CSS-tricks](css-tricks.com)
+- [CSS-tricks](https://www.css-tricks.com)
