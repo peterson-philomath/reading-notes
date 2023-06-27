@@ -23,7 +23,7 @@ Notes from Lesson 2
 Ubunto Inline git commands  
 Notes from Lesson 3
 
-### [Class 04](class04.md)
+### [Structure Web Pages with HTML](htmlstructure.md)
 
 Notes from Lesson 4
 
