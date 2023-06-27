@@ -1,26 +1,53 @@
 # My Reading Journal
+
 Code Fellows Reading Journal
 
-## About Me
+## Code 102 Table of Contents
 
-My Name is Philip Peterson (he/him), and I am in Oregon (Pacific Time). I am a middle school teacher who is hoping to teach 7th/8th graders how to code. I have a background in technology as I studied electrical and computer engineering for a time before switching to become a teacher and I use to maintain computers and networks for different companies. 
+### [Introduction](Introduction.md)
 
-## Code 102
+About me and Growth Mindset
 
-### Growth Mindset
+### [Markdown Notes](MARKDOWN.md)
 
-A growth mindset is having the mindset that you can always improve and always learn more. 
+What is Markdown and how is it used.  
+Notes from lesson 1
 
-**Reminders:**
+### [Coder's Computer](coderscomputer.md)
 
-- Just because it is hard doesn't mean it isn't possible to learn
-- When frustrated take a break and come back with a refreshed mind
-- Everything you have ever learned started with knowing nothing about it.
+Ubunto Inline Navigation Commands.  
+Notes from Lesson 2
 
-## [Markdown Notes](MARKDOWN.md)<br>
-What is Markdown and how is it used.
+### [Revisions and the Cloud](githubconnection.md)
 
-## [Coder's Computer](coderscomputer.md)
+Ubunto Inline git commands  
+Notes from Lesson 3
+
+### [Class 04](class04.md)
+
+Notes from Lesson 4
+
+### [Class 05](class05.md)
+
+Notes from Lesson 5
+
+### [Class 06](class06.md)
+
+Notes from Lesson 6
+
+### [Class 07](class07.md)
+
+Notes from Lesson 7
+
+### [Class 08](class08.md)
+
+Notes from Lesson 8
+
+### [Class 09](class09.md)
+
+Notes from Lesson 9
+
 
 ### Extra Information
+
 Website Path: peterson-philomath.github.io/reading-notes

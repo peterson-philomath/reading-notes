@@ -1,6 +1,7 @@
 # Text Editors
-A piece of software that allows you to write and manage text, especially text used to build a website. 
-Different text editors are focused on different features and have different end goals in mind. Such as different languages to support or different file outputs. 
+
+A piece of software that allows you to write and manage text, especially text used to build a website.  
+Different text editors are focused on different features and have different end goals in mind. Such as different languages to support or different file outputs.
 
 ## Key Features
 
@@ -37,7 +38,7 @@ Different text editors are focused on different features and have different end 
   + Create a new directory (folder)
 + **touch**
   + Creates a blank file
- 
+
 ## Scenario
 
 1. cd projects
