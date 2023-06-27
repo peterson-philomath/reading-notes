@@ -47,7 +47,6 @@ Notes from Lesson 8
 
 Notes from Lesson 9
 
-
 ### [Reflections and Observations](reflections.md)
 
 My reflections and observations from Code 102

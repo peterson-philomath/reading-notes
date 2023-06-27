@@ -1,19 +1,19 @@
 # Revisions and The Cloud
 
-How do you connect github to local repos so you can use more tools.
+How do you connect Github to local repos so you can use more tools?
 
 ## [Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 1. **What is Version Control?**  
-    - System that allows you to revisit pervious versions of a file by recording changes. This allows tracking of what the change was and who made it.  These changes are made through Gits which is a snapshot of the file at the time of the change.  
+    - A system that allows you to revisit previous versions of a file by recording changes. This allows tracking of what the change was and who made it.  These changes are made through Gits which is a snapshot of the file at the time of the change.  
 
 2. **What is cloning in Git?**  
     - Cloning is copying all versions of all the files in the project.
 
 3. **What is the command to track and stage files?**
    - **Tracked** files are any files that were part of the most recent file snapshot
-   - **Untracked** files were not part of last snapshot and do not currently reside in the staging area.
-     - **Determine the state of file**
+   - **Untracked** files were not part of the last snapshot and do not currently reside in the staging area.
+     - **Determine the state of a file**
        - git status  
      - **Staging**
         - Single File
@@ -27,7 +27,7 @@ How do you connect github to local repos so you can use more tools.
      - To commit a file (snapshot) use the command  
         - git commit -m "made change x,y,z"
 
-5. **What is the command to send your changed files to Github?**  
+5. **What is the command to send your changed files to GitHub?**  
    - To push the changes to the remote repo use the command
       - git push origin master
 
