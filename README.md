@@ -33,7 +33,7 @@ Notes from Lesson 4
 CSS Basics  
 Notes from Lesson 5
 
-### [Class 06](class06.md)
+### [Dynamic Web Pages with JavaScript](javascript.md)
 
 Notes from Lesson 6
 
