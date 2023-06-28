@@ -7,9 +7,9 @@
    - It goes line by line until it finds a condition or a loop.
 2. **What is a JavaScript function?**
    - A JavaScript function is a blcok of code designed to performa particular task.  
-   - It excutes when something calls it or invokes it. 
+   - It excutes when something calls it or invokes it.  
 3. **What does it mean to invoke - or call - a function?**
-   - It means at that point run the code insde of the function. 
+   - It means at that point run the code insde of the function.  
    - function name()
    - Examples of invocation
      - Event occurs (button push)
