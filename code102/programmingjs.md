@@ -3,20 +3,20 @@
 ## Notes from Readings
 
 1. **What is control flow?**
-   - The orderin which a computer  excutes code.
+   - The ordering by which a computer  executes code.
    - It goes line by line until it finds a condition or a loop.
 2. **What is a JavaScript function?**
-   - A JavaScript function is a blcok of code designed to performa particular task.  
-   - It excutes when something calls it or invokes it.  
+   - A JavaScript function is a block of code designed to perform a particular task.  
+   - It executes when something calls it or invokes it.  
 3. **What does it mean to invoke - or call - a function?**
-   - It means at that point run the code insde of the function.  
+   - It means at that point run the code inside of the function.  
    - function name()
    - Examples of invocation
      - Event occurs (button push)
      - When it called from JavaScript code
-     - Automatically (self invoked)
+     - Automatically (self-invoked)
 4. **What are the parenthesis () for when you define a function?**
-   - parenthese include paramenter names seperated by a comma. It is the input that function is expecting when it runs.
+   - parentheses include parameter names separated by a comma. It is the input that the function is expecting when it runs.
 
 ## Notes from Lecture
 
