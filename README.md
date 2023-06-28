@@ -37,7 +37,7 @@ Notes from Lesson 5
 
 Notes from Lesson 6
 
-### [Class 07](code102/class07.md)
+### [Programming with JavaScript](code102/programmingjs.md)
 
 Notes from Lesson 7
 
