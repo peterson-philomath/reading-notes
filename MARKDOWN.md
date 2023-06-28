@@ -6,7 +6,7 @@ Markdown is a language used to create formatting without the need to write the e
 
 ## Why do we use Markdown?
 
-It is meant to be able to create a quick write-up of a page without getting bogged down in the code itself. 
+It is meant to be able to create a quick write-up of a page without getting bogged down in the code itself.  
 
 ## Symbols used for formatting in Markdown
 
@@ -39,6 +39,5 @@ It is meant to be able to create a quick write-up of a page without getting bogg
 - [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
 - [Basic Writing and Formatting Syntax - Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
 
 [Reading Notes](README.md)

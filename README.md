@@ -55,7 +55,7 @@ My reflections and observations from Code 102
 
 ## Code 201
 
-###### [Class 01](c201-01.md)
+### [Class 01](c201-01.md)
 
 Notes from Lesson 1
 
@@ -114,10 +114,6 @@ Notes from Lesson 14
 ### [Class 15](c201-15.md)
 
 Notes from Lesson 15
-
-### [Reflections and Observations](reflections.md)
-
-My reflections and observations from Code 201
 
 ### Extra Information
 
