@@ -41,7 +41,7 @@ Notes from Lesson 6
 
 Notes from Lesson 7
 
-### [Class 08](code102/opsandloops.md)
+### [Operations and Loops](code102/opsandloops.md)
 
 Notes from Lesson 8
 
