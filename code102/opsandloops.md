@@ -13,11 +13,11 @@
      - For
      - while
 3. **When does a for loop stop executing?**
-   - Goes until a specified condition evalues to false.
-   -for (initizalization; condition; afterthought){
+   - Goes until a specified condition evaluates to false.
+   -for (initialization; condition; afterthought){
    statement}
 4. **How many times will a while loop execute?**
-   - executes as long as a specified condition evaluates as ture.
+   - executes as long as a specified condition evaluates as true.
    - while (condition){
    statement}
 
@@ -27,7 +27,7 @@ let x=5;
 let y='5';
 
 console.log(x==y); //true  
-console.log(x===y); //true
+console.log(x===y); //false
 
 Logical AND --> &&  
 console.log((x<10) && (y<10));  
