@@ -44,7 +44,6 @@ T    or    F --> Response is true
 // console.log(!true); --> Returns false
 // console.log(!false); --> returns true
 
-
 ## Resources
 
 - [Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
